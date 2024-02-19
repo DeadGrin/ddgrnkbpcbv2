@@ -1,7 +1,7 @@
 # ddgrnkbpcbv2
 Orholinear keyboard 5x14 with OLED screen
 
-Case - 10$ (for my geo): Layer design: 3mm plexiglass (bottom), 3d printed frame, 6mm plexiglass (plate), crewed with M2 screws (tried top plate with inserting nuts but i messed up with them and put regular nuts instead)
+Case - 10$ (for my geo): Layer design: 3mm plexiglass (bottom), 3d printed frame, 6mm plexiglass (plate), screwed with M2 screws (tried top plate with inserting nuts but i messed up with them and put regular nuts instead)
 
 MCU - 4$: Pico Boot (Type-C, RP2040)
 
