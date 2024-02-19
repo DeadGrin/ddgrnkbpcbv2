@@ -9,6 +9,6 @@ Switches - 16$: JWK T1 67g
 
 Keycaps - 13$: Noname from ali, some kind of XDA but taller than XDA.
 
-PCB - 16$: Custom designed PCB to reduce production cost (i don't need 5x full size pcbs) so it's cheaper to make such modules, but easier to use than 1x1 pcbs.
+PCB - 16$: Custom designed PCB to reduce production cost (i don't need 5x full size (5x14) pcbs) so it's cheaper to make such modules (2x5), but easier to use than 1x1 pcbs.
 
 ![image](https://github.com/DeadGrin/ddgrnkbpcbv2/assets/86728543/fa0761f1-5fa2-4ef6-a408-319366891fa6)
